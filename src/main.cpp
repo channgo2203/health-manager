@@ -7,8 +7,7 @@
 #include "Health_Manager.h"
 
 
-int main()
-{
+int main() {
     std::cout << "count is: " << HMModeConfig::get_count() << std::endl;
 
     return 0;

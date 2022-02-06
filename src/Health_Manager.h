@@ -5,8 +5,7 @@
 #include "HM_Mode_Config.h"
 
 
-class HealthManager
-{
+class HealthManager {
 public:
     HealthManager() = default;
     virtual ~HealthManager() = default;
