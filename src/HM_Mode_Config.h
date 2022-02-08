@@ -8,7 +8,7 @@ public:
     HMModeConfig(const HMModeConfig&) = delete;
     HMModeConfig& operator=(const HMModeConfig&) = delete;
     virtual ~HMModeConfig() = default;
-    
+
     static uint16_t get_count();
 private:
     static const uint16_t count_;

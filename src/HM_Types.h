@@ -8,6 +8,7 @@
 
 using hm_checkpoint_id_t = uint16_t;
 using hm_supervised_entity_id_t = uint16_t;
+using hm_external_supervision_id_t = uint16_t;
 using hm_mode_t = uint8_t;
 using hm_checkpoint_graph = std::map<hm_checkpoint_id_t, std::vector<hm_checkpoint_id_t>>;
 
