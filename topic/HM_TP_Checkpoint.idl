@@ -1,0 +1,5 @@
+struct HMTPCheckpoint
+{
+    unsigned long se_id;
+    unsigned long cp_id;
+};

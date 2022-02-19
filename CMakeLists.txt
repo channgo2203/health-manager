@@ -4,7 +4,7 @@ if(NOT CMAKE_VERSION VERSION_LESS 3.0)
     cmake_policy(SET CMP0048 NEW)
 endif()
 
-project(DDSHelloWorld)
+project(HealthManager)
 
 # Find requirements
 if(NOT fastcdr_FOUND)
@@ -27,15 +27,16 @@ if(CMAKE_COMPILER_IS_GNUCXX OR CMAKE_COMPILER_IS_CLANG OR
     endif()
 endif()
 
-message(STATUS "Configuring health manager module...")
-file(GLOB HM_SOURCES_CXX "src/*.cxx")
+# Include headers
+include_directories(inc)
+
+message(STATUS "Configuring HealthManager Component...")
+file(GLOB DDS_HEALTHMANAGER_SOURCES_CXX "topic/*.cxx")
 
 add_executable(HealthManager
-                src/main.cpp
-                src/Health_Manager.cpp
-                src/HM_Mode_Config.cpp
-                ${HM_SOURCES_CXX})
+               src/HM_CP_Data.cpp
+               src/HM_Alive_Supervision_Cfg.cpp
+               src/HM_Main.cpp
+               ${DDS_HEALTHMANAGER_SOURCES_CXX})
 
-target_link_libraries(HealthManager
-                fastrtps
-                fastcdr)
+target_link_libraries(HealthManager fastrtps fastcdr)
