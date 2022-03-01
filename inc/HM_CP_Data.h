@@ -4,7 +4,8 @@
 #include <mutex>
 #include <tuple>
 
-class HMCPData : public HMCPDataIntf {
+class HMCPData : public HMCPDataIntf 
+{
 public:
     HMCPData() = default;
 
@@ -14,20 +15,39 @@ public:
               const std::vector<hm_supervision_id_t>& supervision_ids) override;
 
     bool is_contained(const hm_supervised_entity_id_t se_id,
-                      const hm_checkpoint_id_t cp_id) const = 0;
+                      const hm_checkpoint_id_t cp_id) override;
 
-    uint32_t get_alive_indications() const override;
+    bool get_alive_indications(const hm_supervised_entity_id_t se_id,
+                               const hm_checkpoint_id_t cp_id,
+                               uint32_t& indications) override;
 
-    bool set_alive_indications(const uint32_t indications) override;
+    bool set_alive_indications(const hm_supervised_entity_id_t se_id,
+                               const hm_checkpoint_id_t cp_id,
+                               const uint32_t indications) override;
 
-    bool increase_alive_indications() override;
+    bool increase_alive_indications(const hm_supervised_entity_id_t se_id,
+                                    const hm_checkpoint_id_t cp_id) override;
 
-    uint32_t get_supervision_cycle_total() const override;
+    bool get_supervision_cycle_total(const hm_supervised_entity_id_t se_id,
+                                     const hm_checkpoint_id_t cp_id,
+                                     uint32_t& cycle_total) override;
 
-    bool set_supervision_cycle_total(const uint32_t cycles) override;
+    bool set_supervision_cycle_total(const hm_supervised_entity_id_t se_id,
+                                     const hm_checkpoint_id_t cp_id,
+                                     const uint32_t cycles) override;
 
-    bool increase_supervision_cycle_total() override;
+    bool increase_supervision_cycle_total(const hm_supervised_entity_id_t se_id,
+                                          const hm_checkpoint_id_t cp_id) override;
+
+    bool get_deadline_timestamp(const hm_supervised_entity_id_t se_id,
+                                const hm_checkpoint_id_t cp_id,
+                                std::chrono::time_point<std::chrono::system_clock>& timestamp) override;
+
+    bool set_deadline_timestamp(const hm_supervised_entity_id_t se_id,
+                                const hm_checkpoint_id_t cp_id,
+                                const std::chrono::time_point<std::chrono::system_clock>& timestamp) override;
 private:
+    bool is_valid_se_cp(const std::pair<hm_supervised_entity_id_t, hm_checkpoint_id_t>& key);
     std::map<std::pair<hm_supervised_entity_id_t, hm_checkpoint_id_t>, hm_checkpoint_data_t> checkpoint_data_{};
     std::map<hm_supervision_id_t, bool> logical_supervision_active_flags_{};
     std::map<hm_supervision_id_t, hm_checkpoint_id_t> logical_supervision_pre_visited_cp_{};

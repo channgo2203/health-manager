@@ -29,6 +29,7 @@ endif()
 
 # Include headers
 include_directories(inc)
+include_directories(topic)
 
 message(STATUS "Configuring HealthManager Component...")
 file(GLOB DDS_HEALTHMANAGER_SOURCES_CXX "topic/*.cxx")
@@ -36,6 +37,7 @@ file(GLOB DDS_HEALTHMANAGER_SOURCES_CXX "topic/*.cxx")
 add_executable(HealthManager
                src/HM_CP_Data.cpp
                src/HM_Alive_Supervision_Cfg.cpp
+               src/HM_Deadline_Supervision_Cfg.cpp
                src/HM_Main.cpp
                ${DDS_HEALTHMANAGER_SOURCES_CXX})
 

@@ -2,7 +2,7 @@
 
 
 HMAliveSupervisionCfg::HMAliveSupervisionCfg(const hm_alive_supervision_param_t& params)
-    :supervision_params_(params)
+    : supervision_params_(params)
 {
 }
 
@@ -34,17 +34,22 @@ bool HMAliveSupervisionCfg::compute_supervision_result(const std::shared_ptr<HMC
                                                        hm_cp_supervision_result_t& result) const
 {
     bool status{false};
-    const auto cycle_total = cp_data->get_supervision_cycle_total();
-    if (cycle_total >= supervision_params_.supervision_ref_cycles)
+    uint32_t cycle_total{0};
+    if ((cp_data->get_supervision_cycle_total(supervision_params_.se_id, supervision_params_.cp_id, cycle_total)) && 
+        (cycle_total >= supervision_params_.supervision_ref_cycles))
     {
         const auto supervised_indications = static_cast<uint32_t>(
                                             static_cast<double>(cycle_total * supervision_params_.expected_alive_indications) / 
                                             static_cast<double>(supervision_params_.supervision_ref_cycles));
-        const auto alive_indications = cp_data->get_alive_indications();
-        const auto sup_result = (alive_indications >= supervised_indications - supervision_params_.min_margin) && 
-                                (alive_indications <= supervised_indications + supervision_params_.max_margin);
-        result = sup_result ? hm_cp_supervision_result_t::hm_cp_supervision_correct : hm_cp_supervision_result_t::hm_cp_supervision_incorrect;
-        status = true;
+        uint32_t alive_indications{0};
+        if (cp_data->get_alive_indications(supervision_params_.se_id, supervision_params_.cp_id, alive_indications))
+        {
+            const auto sup_result = (alive_indications >= supervised_indications - supervision_params_.min_margin) && 
+                                    (alive_indications <= supervised_indications + supervision_params_.max_margin);
+            result = sup_result ? hm_cp_supervision_result_t::hm_cp_supervision_correct 
+                                : hm_cp_supervision_result_t::hm_cp_supervision_incorrect;
+            status = true;
+        }
     }
     return status;
 }

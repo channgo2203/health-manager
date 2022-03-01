@@ -134,7 +134,6 @@ struct hm_checkpoint_data_t
     uint32_t alive_indications;
     uint32_t supervision_cycle_total;
     std::chrono::time_point<std::chrono::system_clock> deadline_timestamp;
-    hm_checkpoint_id_t logical_current_cp_id;
 };
 
 struct hm_supervised_entity_data_t
@@ -186,7 +185,6 @@ struct hm_deadline_supervision_param_t
 {
     uint32_t deadline_min;
     uint32_t deadline_max;
-    uint32_t supervision_ref_cycles;
     hm_supervised_entity_id_t se_id;
     hm_checkpoint_id_t cp_start_id;
     hm_checkpoint_id_t cp_stop_id;
