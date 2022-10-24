@@ -1,3 +1,18 @@
+/**
+ * @file HM_Types.h
+ * @author Van C. Ngo
+ * @brief This file contains the HM types
+ * @version 0.1
+ * @date 2022-03-09
+ *
+ * @copyright Copyright (c) NIO USA 2022
+ * All rights reserved.
+ * This document contains proprietary information belonging to NIO USA. Passing on and copying of
+ * this document, and communication of its contents is not permitted without prior written
+ * authorization.
+ *
+ */
+
 #pragma once
 
 #include <cstdint>
@@ -44,13 +59,21 @@ enum class hm_cp_type_t : uint8_t
     hm_unknown_supervision_cp = 6u
 };
 
+enum class hm_supervision_type_t : uint8_t
+{
+    hm_alive_supervision = 0u,
+    hm_deadline_supervision = 1u,
+    hm_logical_supervision = 2u,
+    hm_health_status_supervision = 3u
+};
+
 enum class hm_hs_type_t : uint8_t
 {
     hm_health_status_low = 0u,
-    hm_health_status_hight = 1u,
+    hm_health_status_high = 1u,
     hm_health_status_ok = 2u,
     hm_health_status_very_low = 3u,
-    hm_health_status_very_hight = 4u
+    hm_health_status_very_high = 4u
 };
 
 enum class hm_cp_failure_recovery_t : uint8_t
@@ -114,11 +137,17 @@ struct hm_hs_invalid_reaction_param_t
 struct hm_supervised_entity_t
 {
     hm_supervised_entity_id_t se_id;
+    std::string se_name;
     hm_supervised_entity_type_t type;
     hm_supervised_entity_id_t primary_se_id;
     hm_supervised_entity_id_t backup_se_id;
     std::vector<hm_checkpoint_id_t> checkpoints;
+};
 
+struct hm_external_supervision_t
+{
+    hm_external_supervision_id_t es_id;
+    std::string es_name;
 };
 
 struct hm_local_status_param_t
@@ -133,7 +162,9 @@ struct hm_checkpoint_data_t
 {
     uint32_t alive_indications;
     uint32_t supervision_cycle_total;
-    std::chrono::time_point<std::chrono::system_clock> deadline_timestamp;
+    uint64_t supervision_time_total;
+    uint64_t deadline_timestamp;
+    std::chrono::time_point<std::chrono::steady_clock> supervision_time_point;
 };
 
 struct hm_supervised_entity_data_t

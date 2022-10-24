@@ -1,0 +1,278 @@
+/* This is an example of HM configuration */
+"hm_config" : {
+    /* The name of HM */
+    "hm_name" : "MPU Health Manager",
+    /* If true and checkpoint recovery action or invalid health status reaction is reset */
+    /* Then send immediate reset request instead of using watchdog */
+    "immediate_reset" : false,
+    /* If true then report failure supervision result */
+    "failure_report" : true,
+    /* The init mode of HM */
+    "init_mode_id": 0,
+    /* The list of all supervised entities */
+    "supervised_entities" : [
+        {
+            /* The SE ID */
+            "se_id" : 0,
+            /* The SE name */
+            "se_name" : "Supervised_Entity_0",
+            /* The SE type, it can be normal, primary, hot or cold backup */
+            "se_type" : "normal_SE",
+            /* The primary ID, it is set if SE is primary or backup type */
+            "primary_se_id" : 0,
+            /* The backup ID, it is set if SE is primary or backup type */
+            "backup_se_id" : 0,
+            /* All checkpoints IDs of the SE */
+            "checkpoints" : [0, 1]
+        },
+        {
+            "se_id" : 1,
+            "se_name" : "Supervised_Entity_1",
+            "se_type" : "normal_SE",
+            "primary_se_id" : 0,
+            "backup_se_id" : 0,
+            "checkpoints" : [0, 1, 2, 3]
+        },
+        {
+            "se_id" : 2,
+            "se_name" : "Supervised_Entity_2",
+            "se_type" : "normal_SE",
+            "primary_se_id" : 0,
+            "backup_se_id" : 0,
+            "checkpoints" : [0, 1, 2, 3, 4, 5]
+        }
+    ],
+    /* The list of all external health status supervisors */
+    "external_hs_supervisors" : [
+        {
+            /* The external supervisor ID */
+            "es_id" : 0,
+            /* The external supervisor name */
+            "es_name" : "CPU time usage"
+        },
+        {
+            "es_id" : 1,
+            "es_name" : "Platform voltage"
+        }
+    ],
+    /* List of all supervision IDs */
+    "cp_supervision_ids" : [0, 1, 2, 3, 4, 5],
+    /* List of all external health status supervision IDs */
+    "hs_supervision_ids" : [0, 1],
+    /* Number of total checkpoints */
+    "cp_total" : 12,
+    /* Watchdog device */
+    "watchdog_device" : {
+        "wdg_name" : "internal watchdog",
+        "wdg_index" : 0
+    },
+    /* The list of all HM modes */
+    "hm_modes" : [
+        {
+            /* The tolerance cycles from expired to stopped global status */
+            "expired_supervision_cycle_tolerance": 1,
+            /* The mode ID */
+            "hm_mode_id" : 0,
+            /* The sypervision cycle time in ms */
+            "supervision_cycle_time" : 1000,
+            /* The name of this mode */
+            "hm_mode_name" : "hm_normal_mode",
+            /* The list of alive supervisions in this mode */
+            "alive_supervisions" : [
+                {
+                    /* Expected alive indications */
+                    "expected_alive_indications" : 3,
+                    /* Minimum indication margin */
+                    "min_margin" : 2,
+                    /* Maximum indication margin */
+                    "max_margin" : 2,
+                    /* The number of HM cycles for reference */
+                    "supervision_ref_cycles" : 1,
+                    /* The supervised entity ID */
+                    "se_id" : 0,
+                    /* The checkpoint ID */
+                    "cp_id" : 0,
+                    /* The supervision ID */
+                    "supervision_id" : 0
+                },
+                {
+                    "expected_alive_indications" : 3,
+                    "min_margin" : 2,
+                    "max_margin" : 2,
+                    "supervision_ref_cycles" : 1,
+                    "se_id" : 0,
+                    "cp_id" : 1,
+                    "supervision_id" : 1
+                }
+            ],
+            /* The list of deadline supervisions in this mode */
+            "deadline_supervisions" : [
+                {
+                    /* Minimum deadline in ms */
+                    "deadline_min" : 400,
+                    /* Maximum deadline in ms */
+                    "deadline_max" : 600,
+                    /* The supervised entity ID */
+                    "se_id" : 1,
+                    /* The starting checkpoint ID */
+                    "cp_start_id" : 0,
+                    /* The ending checkpoint ID */
+                    "cp_end_id" : 1,
+                    /* The supervision ID */
+                    "supervision_id" : 2
+                },
+                {
+                    "deadline_min" : 400,
+                    "deadline_max" : 600,
+                    "se_id" : 1,
+                    "cp_start_id" : 1,
+                    "cp_end_id" : 2,
+                    "supervision_id" : 3
+                },
+                {
+                    "deadline_min" : 800,
+                    "deadline_max" : 1300,
+                    "se_id" : 1,
+                    "cp_start_id" : 1,
+                    "cp_end_id" : 3,
+                    "supervision_id" : 4
+                }
+            ],
+            /* The list of logical supervisions in this mode */
+            "logical_supervisions" : [
+                {
+                    /* The checkpoint graph */
+                    "cp_graph" : [
+                        /* An edge from node (checkpoint) 0 to 1 */
+                        [0, 1],
+                        [1, 2],
+                        [2, 3],
+                        [3, 4],
+                        [3, 5],
+                        [4, 0]
+                    ],
+                    /* The list of starting nodes in the graph */
+                    "begin_cp_ids" : [
+                        0
+                    ],
+                    /* The list of ending nodes in the graph */
+                    "end_cp_ids" : [
+                        0,
+                        5
+                    ],
+                    /* The supervised entity ID */
+                    "se_id" : 2,
+                    /* The supervision ID */
+                    "supervision_id" : 5
+                }
+            ],
+            /* The list of external health status supervisions in this mode */
+            "external_health_status_supervisions" : [
+                {
+                    /* The external supervisor ID */
+                    "es_id" : 0,
+                    /* The external supervisor name */
+                    "es_name" : "CPU time usage",
+                    /* The health status supervision ID */
+                    "hs_supervision_id" : 0
+                },
+                {
+                    "es_id" : 1,
+                    "es_name" : "Platform voltage",
+                    "hs_supervision_id" : 1
+                }
+            ],
+            /* The checkpoint local supervision parameters for each supervised entity */
+            "local_supervision_params" : [
+                {
+                    /* The supervised entity ID */
+                    "se_id" : 0,
+                    /* The number of HM cycle tolerance for moving to alive supervision failure */
+                    "failure_alive_supervision_cycle_tolerance" : 1,
+                    /* The number of HM cycle tolerance for moving to restarting failure */
+                    "restarted_supervision_cycle_tolerance" : 2,
+                    /* The number of HM cycle tolerance for moving to backup failure */
+                    "backup_supervision_cycle_tolerance" : 2
+                },
+                {
+                    "se_id" : 1,
+                    "failure_alive_supervision_cycle_tolerance" : 1,
+                    "restarted_supervision_cycle_tolerance" : 2,
+                    "backup_supervision_cycle_tolerance" : 2
+                },
+                {
+                    "se_id" : 2,
+                    "failure_alive_supervision_cycle_tolerance" : 2,
+                    "restarted_supervision_cycle_tolerance" : 3,
+                    "backup_supervision_cycle_tolerance" : 3
+                }
+            ],
+            /* The checkpoint local supervision's recovery parameters for each supervised entity */
+            "local_supervision_recovery_params" : [
+                {
+                    /* The supervised entity ID */
+                    "se_id" : 0,
+                    /* The recovery action that can be nothing, reset, restart, or backup */
+                    "recovery_action" : "hm_failure_recovery_restart",
+                    /* Maximum number of retart times if the recovery action is restart */
+                    "recovery_restart_limit" : 3,
+                    /* Maximum number of backup times if the recovery action is backup */
+                    "recovery_backup_limit" : 0,
+                    /* The primary supervised entity ID if the action is backup */
+                    "primary_id" : 0,
+                    /* The backup supervised entity ID if the action is backup */
+                    "backup_id" : 0
+                },
+                {
+                    "se_id" : 1,
+                    "recovery_action" : "hm_failure_recovery_restart",
+                    "recovery_restart_limit" : 3,
+                    "recovery_backup_limit" : 0,
+                    "primary_id" : 0,
+                    "backup_id" : 0
+                },
+                {
+                    "se_id" : 2,
+                    "recovery_action" : "hm_failure_recovery_reset",
+                    "recovery_restart_limit" : 0,
+                    "recovery_backup_limit" : 0,
+                    "primary_id" : 0,
+                    "backup_id" : 0
+                }
+            ],
+            /* The health status supervision parameters for each external supervisor */
+            "health_status_supervision_params" : [
+                {
+                    /* The list of health status that are considered valid ones */
+                    /* They are can be: hm_hs_low, hm_hs_high, hm_hs_ok, hm_hs_very_low, hm_hs_very_high */
+                    "valid_status" : [
+                        "hm_hs_ok"
+                    ],
+                    /* The external supervisor ID */
+                    "es_id" : 0
+                },
+                {
+                    "valid_status" : [
+                        "hm_hs_low",
+                        "hm_hs_ok",
+                        "hm_hs_very_low"
+                    ],
+                    "es_id" : 1
+                }
+            ],
+            /* The health status supervision's reaction parameters for each external supervisor */
+            "health_status_supervision_reaction_params" : [
+                {
+                    /* The external supervisor ID */
+                    "es_id" : 0,
+                    /* The reaction when the health status is invalid. It can be nothing or reset */
+                    "hs_reaction" : "hm_hs_invalid_reset"
+                },
+                {
+                    "es_id" : 1,
+                    "hs_reaction" : "hm_hs_invalid_nothing"
+                }
+            ]
+        }
+    ]
+}

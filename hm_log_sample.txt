@@ -1,0 +1,1627 @@
+[HMDataFastDDSReceiver] Data subscriber matched.
+[HMDataFastDDSSender] Data publisher matched.
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 447us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 102us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 107us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 125us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 120us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 112us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 111us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 168us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 117us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 127us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 121us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 116us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 111us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 107us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 211us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 111us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 113us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 193us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 113us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 113us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 110us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 112us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 385us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 127us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 119us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 102us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 113us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 631us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 110us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 136us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 119us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMDataFastDDSReceiver] Data subscriber unmatched.
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 111us
+[HMLocalStatusProcessor] SE0 Failed alive : 2 Failed deadline : 0 Local status : FAILED
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 1 Expired count : 0 Global status : FAILED
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 444us
+[HMLocalStatusProcessor] SE0 Failed alive : 2 Failed deadline : 0 Local status : EXPIRED
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 1 Global status : EXPIRED
+[HMStatusreporter] Number of expired supervised entities : 1 Number of invalid health status : 0
+[Healthmanager] Failed to report supervision status
+[HealthManager] Supervision cycle run-time : 213us
+[HMLocalStatusProcessor] SE0 Failed alive : 2 Failed deadline : 0 Local status : EXPIRED
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 1 Global status : STOPPED
+[HMStatusreporter] Number of expired supervised entities : 1 Number of invalid health status : 0
+[Healthmanager] Failed to report supervision status
+[HMFailurehandler] SE0 Local status after recovery handling : RESTARTED
+[HealthManager] Supervision cycle run-time : 537us
+[HMDataFastDDSReceiver] Data subscriber matched.
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 114us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 125us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 115us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 125us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 108us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 111us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 124us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 103us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 128us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 113us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 116us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 109us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 175us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 123us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 112us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 108us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 111us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 159us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 119us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 111us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 744us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 227us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 103us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 127us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 172us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 760us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 224us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 120us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 112us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 181us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 508us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMDataFastDDSReceiver] Data subscriber unmatched.
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 125us
+[HMLocalStatusProcessor] SE0 Failed alive : 2 Failed deadline : 0 Local status : FAILED
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 1 Expired count : 0 Global status : FAILED
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 124us
+[HMLocalStatusProcessor] SE0 Failed alive : 2 Failed deadline : 0 Local status : EXPIRED
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 1 Global status : EXPIRED
+[HMStatusreporter] Number of expired supervised entities : 1 Number of invalid health status : 0
+[Healthmanager] Failed to report supervision status
+[HealthManager] Supervision cycle run-time : 160us
+[HMLocalStatusProcessor] SE0 Failed alive : 2 Failed deadline : 0 Local status : EXPIRED
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 1 Global status : STOPPED
+[HMStatusreporter] Number of expired supervised entities : 1 Number of invalid health status : 0
+[Healthmanager] Failed to report supervision status
+[HMFailurehandler] SE0 Local status after recovery handling : RESTARTED
+[HealthManager] Supervision cycle run-time : 224us
+[HMDataFastDDSReceiver] Data subscriber matched.
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 102us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 182us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 106us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 107us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 112us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 156us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 108us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 128us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 492us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 111us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 152us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 116us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 107us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 571us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 115us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 113us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 171us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 128us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 120us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 110us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 118us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 155us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 105us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 125us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 208us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 113us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 128us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 123us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 125us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 111us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 116us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMDataFastDDSReceiver] Data subscriber unmatched.
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 110us
+[HMLocalStatusProcessor] SE0 Failed alive : 2 Failed deadline : 0 Local status : FAILED
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 1 Expired count : 0 Global status : FAILED
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 117us
+[HMLocalStatusProcessor] SE0 Failed alive : 2 Failed deadline : 0 Local status : EXPIRED
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 1 Global status : EXPIRED
+[HMStatusreporter] Number of expired supervised entities : 1 Number of invalid health status : 0
+[Healthmanager] Failed to report supervision status
+[HealthManager] Supervision cycle run-time : 154us
+[HMLocalStatusProcessor] SE0 Failed alive : 2 Failed deadline : 0 Local status : EXPIRED
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 1 Global status : STOPPED
+[HMStatusreporter] Number of expired supervised entities : 1 Number of invalid health status : 0
+[Healthmanager] Failed to report supervision status
+[HMFailurehandler] SE0 Local status after recovery handling : RESTARTED
+[HealthManager] Supervision cycle run-time : 229us
+[HMDataFastDDSReceiver] Data subscriber matched.
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 112us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 112us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 112us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 111us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 659us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 104us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 110us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 108us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 116us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 502us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 150us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 112us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 106us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 105us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 612us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 120us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 110us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 187us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 108us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 483us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 109us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 103us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 106us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 201us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 114us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 102us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 773us
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 110us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 112us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 107us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 130us
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMCPProcessor] Processing checkpoint (0, 0)
+[HMCPProcessor] Processing checkpoint (0, 1)
+[HMDataFastDDSReceiver] Data subscriber unmatched.
+[HMLocalStatusProcessor] SE0 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 0 Global status : OK
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 142us
+[HMLocalStatusProcessor] SE0 Failed alive : 2 Failed deadline : 0 Local status : FAILED
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 1 Expired count : 0 Global status : FAILED
+[HMStatusreporter] Number of expired supervised entities : 0 Number of invalid health status : 0
+[HealthManager] Supervision cycle run-time : 273us
+[HMLocalStatusProcessor] SE0 Failed alive : 2 Failed deadline : 0 Local status : EXPIRED
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 1 Global status : EXPIRED
+[HMStatusreporter] Number of expired supervised entities : 1 Number of invalid health status : 0
+[Healthmanager] Failed to report supervision status
+[HealthManager] Supervision cycle run-time : 127us
+[HMLocalStatusProcessor] SE0 Failed alive : 2 Failed deadline : 0 Local status : EXPIRED
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 1 Global status : STOPPED
+[HMStatusreporter] Number of expired supervised entities : 1 Number of invalid health status : 0
+[Healthmanager] Failed to report supervision status
+[HMFailurehandler] SE0 Local status after recovery handling : EXPIRED
+[HealthManager] Supervision cycle run-time : 148us
+[HMLocalStatusProcessor] SE0 Failed alive : 2 Failed deadline : 0 Local status : EXPIRED
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 1 Global status : STOPPED
+[HMStatusreporter] Number of expired supervised entities : 1 Number of invalid health status : 0
+[Healthmanager] Failed to report supervision status
+[HMFailurehandler] SE0 Local status after recovery handling : EXPIRED
+[HealthManager] Supervision cycle run-time : 138us
+[HMLocalStatusProcessor] SE0 Failed alive : 2 Failed deadline : 0 Local status : EXPIRED
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 1 Global status : STOPPED
+[HMStatusreporter] Number of expired supervised entities : 1 Number of invalid health status : 0
+[Healthmanager] Failed to report supervision status
+[HMFailurehandler] SE0 Local status after recovery handling : EXPIRED
+[HealthManager] Supervision cycle run-time : 162us
+[HMLocalStatusProcessor] SE0 Failed alive : 2 Failed deadline : 0 Local status : EXPIRED
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 1 Global status : STOPPED
+[HMStatusreporter] Number of expired supervised entities : 1 Number of invalid health status : 0
+[Healthmanager] Failed to report supervision status
+[HMFailurehandler] SE0 Local status after recovery handling : EXPIRED
+[HealthManager] Supervision cycle run-time : 151us
+[HMLocalStatusProcessor] SE0 Failed alive : 2 Failed deadline : 0 Local status : EXPIRED
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 1 Global status : STOPPED
+[HMStatusreporter] Number of expired supervised entities : 1 Number of invalid health status : 0
+[Healthmanager] Failed to report supervision status
+[HMFailurehandler] SE0 Local status after recovery handling : EXPIRED
+[HealthManager] Supervision cycle run-time : 152us
+[HMLocalStatusProcessor] SE0 Failed alive : 2 Failed deadline : 0 Local status : EXPIRED
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 1 Global status : STOPPED
+[HMStatusreporter] Number of expired supervised entities : 1 Number of invalid health status : 0
+[Healthmanager] Failed to report supervision status
+[HMFailurehandler] SE0 Local status after recovery handling : EXPIRED
+[HealthManager] Supervision cycle run-time : 128us
+[HMLocalStatusProcessor] SE0 Failed alive : 2 Failed deadline : 0 Local status : EXPIRED
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 1 Global status : STOPPED
+[HMStatusreporter] Number of expired supervised entities : 1 Number of invalid health status : 0
+[Healthmanager] Failed to report supervision status
+[HMFailurehandler] SE0 Local status after recovery handling : EXPIRED
+[HealthManager] Supervision cycle run-time : 139us
+[HMLocalStatusProcessor] SE0 Failed alive : 2 Failed deadline : 0 Local status : EXPIRED
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 1 Global status : STOPPED
+[HMStatusreporter] Number of expired supervised entities : 1 Number of invalid health status : 0
+[Healthmanager] Failed to report supervision status
+[HMFailurehandler] SE0 Local status after recovery handling : EXPIRED
+[HealthManager] Supervision cycle run-time : 153us
+[HMLocalStatusProcessor] SE0 Failed alive : 2 Failed deadline : 0 Local status : EXPIRED
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 1 Global status : STOPPED
+[HMStatusreporter] Number of expired supervised entities : 1 Number of invalid health status : 0
+[Healthmanager] Failed to report supervision status
+[HMFailurehandler] SE0 Local status after recovery handling : EXPIRED
+[HealthManager] Supervision cycle run-time : 168us
+[HMLocalStatusProcessor] SE0 Failed alive : 2 Failed deadline : 0 Local status : EXPIRED
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 1 Global status : STOPPED
+[HMStatusreporter] Number of expired supervised entities : 1 Number of invalid health status : 0
+[Healthmanager] Failed to report supervision status
+[HMFailurehandler] SE0 Local status after recovery handling : EXPIRED
+[HealthManager] Supervision cycle run-time : 235us
+[HMLocalStatusProcessor] SE0 Failed alive : 2 Failed deadline : 0 Local status : EXPIRED
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 1 Global status : STOPPED
+[HMStatusreporter] Number of expired supervised entities : 1 Number of invalid health status : 0
+[Healthmanager] Failed to report supervision status
+[HMFailurehandler] SE0 Local status after recovery handling : EXPIRED
+[HealthManager] Supervision cycle run-time : 138us
+[HMLocalStatusProcessor] SE0 Failed alive : 2 Failed deadline : 0 Local status : EXPIRED
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 1 Global status : STOPPED
+[HMStatusreporter] Number of expired supervised entities : 1 Number of invalid health status : 0
+[Healthmanager] Failed to report supervision status
+[HMFailurehandler] SE0 Local status after recovery handling : EXPIRED
+[HealthManager] Supervision cycle run-time : 156us
+[HMLocalStatusProcessor] SE0 Failed alive : 2 Failed deadline : 0 Local status : EXPIRED
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 1 Global status : STOPPED
+[HMStatusreporter] Number of expired supervised entities : 1 Number of invalid health status : 0
+[Healthmanager] Failed to report supervision status
+[HMFailurehandler] SE0 Local status after recovery handling : EXPIRED
+[HealthManager] Supervision cycle run-time : 148us
+[HMLocalStatusProcessor] SE0 Failed alive : 2 Failed deadline : 0 Local status : EXPIRED
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 1 Global status : STOPPED
+[HMStatusreporter] Number of expired supervised entities : 1 Number of invalid health status : 0
+[Healthmanager] Failed to report supervision status
+[HMFailurehandler] SE0 Local status after recovery handling : EXPIRED
+[HealthManager] Supervision cycle run-time : 288us
+[HMDataFastDDSSender] Data publisher unmatched.
+[HMLocalStatusProcessor] SE0 Failed alive : 2 Failed deadline : 0 Local status : EXPIRED
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 1 Global status : STOPPED
+[HMStatusreporter] Number of expired supervised entities : 1 Number of invalid health status : 0
+[Healthmanager] Failed to report supervision status
+[HMFailurehandler] SE0 Local status after recovery handling : EXPIRED
+[HealthManager] Supervision cycle run-time : 138us
+[HMLocalStatusProcessor] SE0 Failed alive : 2 Failed deadline : 0 Local status : EXPIRED
+[HMLocalStatusProcessor] SE1 Failed alive : 0 Failed deadline : 0 Local status : OK
+[HMGlobalStatusProcessor] Failed count : 0 Expired count : 1 Global status : STOPPED
+[HMStatusreporter] Number of expired supervised entities : 1 Number of invalid health status : 0
+[Healthmanager] Failed to report supervision status
+[HMFailurehandler] SE0 Local status after recovery handling : EXPIRED
+[HealthManager] Supervision cycle run-time : 669us
+[HMMain] Received signal number 2

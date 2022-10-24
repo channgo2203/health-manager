@@ -36,10 +36,12 @@ using namespace eprosima::fastcdr::exception;
 
 HMTPCheckpoint::HMTPCheckpoint()
 {
-    // m_se_id com.eprosima.idl.parser.typecode.PrimitiveTypeCode@27808f31
+    // m_se_id com.eprosima.idl.parser.typecode.PrimitiveTypeCode@4cf4d528
     m_se_id = 0;
-    // m_cp_id com.eprosima.idl.parser.typecode.PrimitiveTypeCode@1d8d30f7
+    // m_cp_id com.eprosima.idl.parser.typecode.PrimitiveTypeCode@77846d2c
     m_cp_id = 0;
+    // m_timestamp_ms com.eprosima.idl.parser.typecode.PrimitiveTypeCode@548ad73b
+    m_timestamp_ms = 0;
 
 }
 
@@ -47,6 +49,7 @@ HMTPCheckpoint::~HMTPCheckpoint()
 {
 
 
+
 }
 
 HMTPCheckpoint::HMTPCheckpoint(
@@ -54,6 +57,7 @@ HMTPCheckpoint::HMTPCheckpoint(
 {
     m_se_id = x.m_se_id;
     m_cp_id = x.m_cp_id;
+    m_timestamp_ms = x.m_timestamp_ms;
 }
 
 HMTPCheckpoint::HMTPCheckpoint(
@@ -61,6 +65,7 @@ HMTPCheckpoint::HMTPCheckpoint(
 {
     m_se_id = x.m_se_id;
     m_cp_id = x.m_cp_id;
+    m_timestamp_ms = x.m_timestamp_ms;
 }
 
 HMTPCheckpoint& HMTPCheckpoint::operator =(
@@ -69,6 +74,7 @@ HMTPCheckpoint& HMTPCheckpoint::operator =(
 
     m_se_id = x.m_se_id;
     m_cp_id = x.m_cp_id;
+    m_timestamp_ms = x.m_timestamp_ms;
 
     return *this;
 }
@@ -79,8 +85,22 @@ HMTPCheckpoint& HMTPCheckpoint::operator =(
 
     m_se_id = x.m_se_id;
     m_cp_id = x.m_cp_id;
+    m_timestamp_ms = x.m_timestamp_ms;
 
     return *this;
+}
+
+bool HMTPCheckpoint::operator ==(
+        const HMTPCheckpoint& x) const
+{
+
+    return (m_se_id == x.m_se_id && m_cp_id == x.m_cp_id && m_timestamp_ms == x.m_timestamp_ms);
+}
+
+bool HMTPCheckpoint::operator !=(
+        const HMTPCheckpoint& x) const
+{
+    return !(*this == x);
 }
 
 size_t HMTPCheckpoint::getMaxCdrSerializedSize(
@@ -89,10 +109,13 @@ size_t HMTPCheckpoint::getMaxCdrSerializedSize(
     size_t initial_alignment = current_alignment;
 
 
-    current_alignment += 4 + eprosima::fastcdr::Cdr::alignment(current_alignment, 4);
+    current_alignment += 2 + eprosima::fastcdr::Cdr::alignment(current_alignment, 2);
 
 
-    current_alignment += 4 + eprosima::fastcdr::Cdr::alignment(current_alignment, 4);
+    current_alignment += 2 + eprosima::fastcdr::Cdr::alignment(current_alignment, 2);
+
+
+    current_alignment += 8 + eprosima::fastcdr::Cdr::alignment(current_alignment, 8);
 
 
 
@@ -107,10 +130,13 @@ size_t HMTPCheckpoint::getCdrSerializedSize(
     size_t initial_alignment = current_alignment;
 
 
-    current_alignment += 4 + eprosima::fastcdr::Cdr::alignment(current_alignment, 4);
+    current_alignment += 2 + eprosima::fastcdr::Cdr::alignment(current_alignment, 2);
 
 
-    current_alignment += 4 + eprosima::fastcdr::Cdr::alignment(current_alignment, 4);
+    current_alignment += 2 + eprosima::fastcdr::Cdr::alignment(current_alignment, 2);
+
+
+    current_alignment += 8 + eprosima::fastcdr::Cdr::alignment(current_alignment, 8);
 
 
 
@@ -123,6 +149,7 @@ void HMTPCheckpoint::serialize(
 
     scdr << m_se_id;
     scdr << m_cp_id;
+    scdr << m_timestamp_ms;
 
 }
 
@@ -132,6 +159,7 @@ void HMTPCheckpoint::deserialize(
 
     dcdr >> m_se_id;
     dcdr >> m_cp_id;
+    dcdr >> m_timestamp_ms;
 }
 
 /*!
@@ -139,7 +167,7 @@ void HMTPCheckpoint::deserialize(
  * @param _se_id New value for member se_id
  */
 void HMTPCheckpoint::se_id(
-        uint32_t _se_id)
+        uint16_t _se_id)
 {
     m_se_id = _se_id;
 }
@@ -148,7 +176,7 @@ void HMTPCheckpoint::se_id(
  * @brief This function returns the value of member se_id
  * @return Value of member se_id
  */
-uint32_t HMTPCheckpoint::se_id() const
+uint16_t HMTPCheckpoint::se_id() const
 {
     return m_se_id;
 }
@@ -157,7 +185,7 @@ uint32_t HMTPCheckpoint::se_id() const
  * @brief This function returns a reference to member se_id
  * @return Reference to member se_id
  */
-uint32_t& HMTPCheckpoint::se_id()
+uint16_t& HMTPCheckpoint::se_id()
 {
     return m_se_id;
 }
@@ -167,7 +195,7 @@ uint32_t& HMTPCheckpoint::se_id()
  * @param _cp_id New value for member cp_id
  */
 void HMTPCheckpoint::cp_id(
-        uint32_t _cp_id)
+        uint16_t _cp_id)
 {
     m_cp_id = _cp_id;
 }
@@ -176,7 +204,7 @@ void HMTPCheckpoint::cp_id(
  * @brief This function returns the value of member cp_id
  * @return Value of member cp_id
  */
-uint32_t HMTPCheckpoint::cp_id() const
+uint16_t HMTPCheckpoint::cp_id() const
 {
     return m_cp_id;
 }
@@ -185,9 +213,37 @@ uint32_t HMTPCheckpoint::cp_id() const
  * @brief This function returns a reference to member cp_id
  * @return Reference to member cp_id
  */
-uint32_t& HMTPCheckpoint::cp_id()
+uint16_t& HMTPCheckpoint::cp_id()
 {
     return m_cp_id;
+}
+
+/*!
+ * @brief This function sets a value in member timestamp_ms
+ * @param _timestamp_ms New value for member timestamp_ms
+ */
+void HMTPCheckpoint::timestamp_ms(
+        uint64_t _timestamp_ms)
+{
+    m_timestamp_ms = _timestamp_ms;
+}
+
+/*!
+ * @brief This function returns the value of member timestamp_ms
+ * @return Value of member timestamp_ms
+ */
+uint64_t HMTPCheckpoint::timestamp_ms() const
+{
+    return m_timestamp_ms;
+}
+
+/*!
+ * @brief This function returns a reference to member timestamp_ms
+ * @return Reference to member timestamp_ms
+ */
+uint64_t& HMTPCheckpoint::timestamp_ms()
+{
+    return m_timestamp_ms;
 }
 
 
@@ -195,6 +251,7 @@ size_t HMTPCheckpoint::getKeyMaxCdrSerializedSize(
         size_t current_alignment)
 {
     size_t current_align = current_alignment;
+
 
 
 
@@ -212,5 +269,5 @@ void HMTPCheckpoint::serializeKey(
         eprosima::fastcdr::Cdr& scdr) const
 {
     (void) scdr;
-      
+       
 }

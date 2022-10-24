@@ -1,5 +1,6 @@
 struct HMTPCheckpoint
 {
-    unsigned long se_id;
-    unsigned long cp_id;
+    unsigned short se_id;
+    unsigned short cp_id;
+    unsigned long long timestamp_ms;
 };

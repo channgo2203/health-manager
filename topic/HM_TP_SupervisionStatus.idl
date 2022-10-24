@@ -1,0 +1,17 @@
+struct HMTPLocalStatus;
+struct HMTPSupervisionStatus;
+
+struct HMTPLocalStatus
+{
+    unsigned short id;
+    string name;
+    octet recovery_type;
+    octet local_status;
+};
+
+struct HMTPSupervisionStatus
+{
+    sequence<HMTPLocalStatus> cp_supervision_status;
+    sequence<HMTPLocalStatus> hs_supervision_status;
+    octet global_status;
+};

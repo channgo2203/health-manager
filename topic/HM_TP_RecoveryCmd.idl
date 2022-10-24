@@ -1,0 +1,9 @@
+struct HMTPRecoveryCmd
+{
+    octet recovery_type;
+    unsigned short se_id;
+    string se_name;
+    unsigned short backup_se_id;
+    string backup_se_name;
+    unsigned long long timestamp_ms;
+};
