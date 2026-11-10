@@ -9,11 +9,8 @@ Requirements
 Features
 ========
 
-This POC covers all features specified in the architecture design document [https://nio.feishu.cn/wiki/wikcnw73x1vd5uKm050QC1Gulvf] except
+This POC covers all features specified in the Adaptive AUTOSAR except
 the following:
-
-- Code generation from configuration files (it is not clear the current code generation and config file format of NVOS MCU or a new
-system will be used)
 - Features that are related to health status with external supervisions
 
 Build
